@@ -41,7 +41,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -159,10 +159,11 @@
     </state>
     <state x="1558" y="-962" key="#Project_Structure/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588067881460" />
     <state x="1559" y="-962" key="#Project_Structure/1007.-1200.1920.1160/-913.-1214.1920.1160/0.0.1920.1040@1007.-1200.1920.1160" timestamp="1588227614265" />
-    <state x="1715" y="-817" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588066317956">
-      <screen x="1006" y="-1200" width="1920" height="1160" />
+    <state x="1716" y="-817" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588238533444">
+      <screen x="1007" y="-1200" width="1920" height="1160" />
     </state>
     <state x="1715" y="-817" key="#com.intellij.fileTypes.FileTypeChooser/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588066317956" />
+    <state x="1716" y="-817" key="#com.intellij.fileTypes.FileTypeChooser/1007.-1200.1920.1160/-913.-1214.1920.1160/0.0.1920.1040@1007.-1200.1920.1160" timestamp="1588238533444" />
     <state x="1702" y="-695" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588145118188">
       <screen x="1006" y="-1200" width="1920" height="1160" />
     </state>
@@ -209,10 +210,11 @@
       <screen x="1006" y="-1200" width="1920" height="1160" />
     </state>
     <state x="1496" y="-965" key="Maven.ArtifactSearchDialog/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588057798570" />
-    <state x="1467" y="-978" key="SettingsEditor" timestamp="1588148416133">
-      <screen x="1006" y="-1200" width="1920" height="1160" />
+    <state x="1468" y="-978" key="SettingsEditor" timestamp="1588238502036">
+      <screen x="1007" y="-1200" width="1920" height="1160" />
     </state>
     <state x="1467" y="-978" key="SettingsEditor/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588148416133" />
+    <state x="1468" y="-978" key="SettingsEditor/1007.-1200.1920.1160/-913.-1214.1920.1160/0.0.1920.1040@1007.-1200.1920.1160" timestamp="1588238502036" />
     <state x="-258" y="-810" key="com.intellij.ide.util.TipDialog" timestamp="1587990434275">
       <screen x="-914" y="-1214" width="1920" height="1160" />
     </state>
