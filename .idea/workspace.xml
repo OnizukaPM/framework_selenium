@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb8f19b8-bcaa-4366-bba4-b6901f22beb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b7h4G68UWq7XUQ0mgSExy2vBfB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../staxter-web-app-selenium-tests" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\staxter_selenium_tests\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LandingPageTests.openLandingPage">
+    <configuration name="C:/staxter_selenium_tests/src/test/resources/all_tests_suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="staxter_selenium_tests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/all_tests_suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FailedLoginTests.asUserTryToLogInWithIncorrectLoginAndPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="staxter_selenium_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.FailedLoginTests" />
+      <option name="METHOD_NAME" value="asUserTryToLogInWithIncorrectLoginAndPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandingPageTests.openLandingPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="staxter_selenium_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LandingPageTests" />
+      <option name="METHOD_NAME" value="openLandingPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveLoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="staxter_selenium_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PositiveLoginTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveLoginTests.asUserLoginUsingValidLoginAndPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="staxter_selenium_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PositiveLoginTests" />
+      <option name="METHOD_NAME" value="asUserLoginUsingValidLoginAndPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LandingPageTests.openLandingPage" />
+        <item itemvalue="TestNG.PositiveLoginTests.asUserLoginUsingValidLoginAndPassword" />
+        <item itemvalue="TestNG.C:/staxter_selenium_tests/src/test/resources/all_tests_suite.xml" />
+        <item itemvalue="TestNG.PositiveLoginTests" />
+        <item itemvalue="TestNG.FailedLoginTests.asUserTryToLogInWithIncorrectLoginAndPassword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb8f19b8-bcaa-4366-bba4-b6901f22beb0" name="Default Changelist" comment="" />
+      <created>1587988845913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587988845913</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1559" y="-962" key="#Project_Structure" timestamp="1588227614265">
+      <screen x="1007" y="-1200" width="1920" height="1160" />
+    </state>
+    <state x="1558" y="-962" key="#Project_Structure/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588067881460" />
+    <state x="1559" y="-962" key="#Project_Structure/1007.-1200.1920.1160/-913.-1214.1920.1160/0.0.1920.1040@1007.-1200.1920.1160" timestamp="1588227614265" />
+    <state x="1715" y="-817" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588066317956">
+      <screen x="1006" y="-1200" width="1920" height="1160" />
+    </state>
+    <state x="1715" y="-817" key="#com.intellij.fileTypes.FileTypeChooser/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588066317956" />
+    <state x="1702" y="-695" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588145118188">
+      <screen x="1006" y="-1200" width="1920" height="1160" />
+    </state>
+    <state x="1702" y="-695" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588145118188" />
+    <state x="1762" y="-761" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588162900606">
+      <screen x="1006" y="-1200" width="1920" height="1160" />
+    </state>
+    <state x="1762" y="-761" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588162900606" />
+    <state x="1696" y="-873" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588162800541">
+      <screen x="1006" y="-1200" width="1920" height="1160" />
+    </state>
+    <state x="1696" y="-873" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588162800541" />
+    <state x="1747" y="-879" key="FileChooserDialogImpl" timestamp="1588231087312">
+      <screen x="1007" y="-1200" width="1920" height="1160" />
+    </state>
+    <state x="1746" y="-879" key="FileChooserDialogImpl/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588163745390" />
+    <state x="740" y="288" key="FileChooserDialogImpl/1007.-1200.1920.1160/-913.-1214.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1588227228730" />
+    <state x="1747" y="-879" key="FileChooserDialogImpl/1007.-1200.1920.1160/-913.-1214.1920.1160/0.0.1920.1040@1007.-1200.1920.1160" timestamp="1588231087312" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1588165432649">
+      <screen x="1006" y="-1200" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@-914.-1214.1920.1160" timestamp="1588075821822" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1587993510127" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588165432649" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1588165432648">
+      <screen x="1006" y="-1200" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.center/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@-914.-1214.1920.1160" timestamp="1588075821821" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1587993510127" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588165432648" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1588165432648">
+      <screen x="1006" y="-1200" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.left/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@-914.-1214.1920.1160" timestamp="1588075821821" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1587993510127" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588165432648" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1588165432649">
+      <screen x="1006" y="-1200" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.right/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@-914.-1214.1920.1160" timestamp="1588075821821" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1587993510127" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588165432649" />
+    <state x="1496" y="-965" key="Maven.ArtifactSearchDialog" timestamp="1588057798570">
+      <screen x="1006" y="-1200" width="1920" height="1160" />
+    </state>
+    <state x="1496" y="-965" key="Maven.ArtifactSearchDialog/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588057798570" />
+    <state x="1467" y="-978" key="SettingsEditor" timestamp="1588148416133">
+      <screen x="1006" y="-1200" width="1920" height="1160" />
+    </state>
+    <state x="1467" y="-978" key="SettingsEditor/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588148416133" />
+    <state x="-258" y="-810" key="com.intellij.ide.util.TipDialog" timestamp="1587990434275">
+      <screen x="-914" y="-1214" width="1920" height="1160" />
+    </state>
+    <state x="-258" y="-810" key="com.intellij.ide.util.TipDialog/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@-914.-1214.1920.1160" timestamp="1587990434275" />
+    <state x="1348" y="-925" key="new project wizard" timestamp="1588163735260">
+      <screen x="1006" y="-1200" width="1920" height="1160" />
+    </state>
+    <state x="1348" y="-925" key="new project wizard/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588163735260" />
+    <state x="1629" y="-945" width="672" height="678" key="search.everywhere.popup" timestamp="1588142847256">
+      <screen x="1006" y="-1200" width="1920" height="1160" />
+    </state>
+    <state x="1629" y="-945" width="672" height="678" key="search.everywhere.popup/1006.-1200.1920.1160/-914.-1214.1920.1160/0.0.1920.1040@1006.-1200.1920.1160" timestamp="1588142847256" />
+  </component>
+</project>

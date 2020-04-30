@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Tests" duration-ms="13868" started-at="2020-04-30T09:38:30 CEST" finished-at="2020-04-30T09:38:44 CEST">
+    <groups>
+    </groups>
+    <test name="Landing Page tests" duration-ms="13868" started-at="2020-04-30T09:38:30 CEST" finished-at="2020-04-30T09:38:44 CEST">
+      <class name="tests.LandingPageTests">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.LandingPageTests@35342d2f]" name="beforeClass" is-config="true" duration-ms="60" started-at="2020-04-30T09:38:30 CEST" finished-at="2020-04-30T09:38:30 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeTest(driver.manager.BrowserType)[pri:0, instance:tests.LandingPageTests@35342d2f]" name="beforeTest" is-config="true" duration-ms="8482" started-at="2020-04-30T09:38:30 CEST" finished-at="2020-04-30T09:38:38 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="openLandingPage()[pri:0, instance:tests.LandingPageTests@35342d2f]" name="openLandingPage" duration-ms="4058" started-at="2020-04-30T09:38:39 CEST" finished-at="2020-04-30T09:38:43 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLandingPage -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.LandingPageTests@35342d2f]" name="afterTest" is-config="true" duration-ms="1029" started-at="2020-04-30T09:38:43 CEST" finished-at="2020-04-30T09:38:44 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.LandingPageTests -->
+    </test> <!-- Landing Page tests -->
+  </suite> <!-- All Tests -->
+</testng-results>
